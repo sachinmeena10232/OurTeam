@@ -1,0 +1,142 @@
+ @media screen and (max-width: 800px) {
+     .text {
+         font-size: 20px;
+     }
+     .projects {
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         width: 80%;
+     }
+     .image {
+         width: 100%;
+     }
+     .image1 {
+         width: 250%;
+         margin: 2px;
+     }
+     .overlay {
+         width: 100%;
+     }
+     .overlay1 {
+         width: 253%;
+     }
+     .text1 {
+         font-size: 15px;
+     }
+     .text1 h3 {
+         font-size: px;
+     }
+     .text1 ul {
+         margin-bottom: 0;
+     }
+     .text {
+         font-size: 12px;
+     }
+     .text h3 {
+         font-size: 14px;
+     }
+ }
+ 
+ @media screen and (max-width: 673px) {
+     .text1 {
+         font-size: 12px;
+     }
+     .text1 h3 {
+         font-size: 14px;
+     }
+     .text {
+         font-size: 24px;
+     }
+     .text h3 {
+         font-size: 28px;
+     }
+     .hobbiees {
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         width: 80%;
+     }
+     .hobby-heading {
+         margin-right: 60%;
+     }
+     .hobby {
+         position: relative;
+         width: 82%;
+         margin: 3%;
+     }
+ }
+ 
+ @media screen and (max-width: 600px) {
+     .text {
+         font-size: 20px;
+     }
+     .text h3 {
+         font-size: 24px;
+     }
+     .social-link {
+         display: none;
+     }
+     .text1 {
+         font-size: 9px;
+     }
+     .text1 h3 {
+         font-size: 11px;
+     }
+ }
+ 
+ @media screen and (max-width: 400px) {
+     .text1 {
+         font-size: 16px;
+     }
+     .text1 h3 {
+         font-size: 25px;
+     }
+     .text {
+         font-size: 9px;
+     }
+ }
+ 
+ @media screen and (max-width: 315px) {
+     .text1 {
+         font-size: 5px;
+     }
+     .text1 h3 {
+         font-size: 7px;
+     }
+ }
+ 
+ @media screen and (max-width: 1200px) {
+     .display {
+         display: none;
+     }
+     .display-none {
+         display: block;
+     }
+ }
+ 
+ @media screen and (max-width: 1400px) {
+     .projects {
+         padding-top: 5%;
+     }
+ }
+ 
+ @media screen and (max-width: 1000px) {
+     .projects {
+         padding-top: 10%;
+     }
+ }
+ 
+ @media screen and (max-width: 600px) {
+     .display {
+         display: none;
+     }
+     .display-none {
+         display: block;
+     }
+     .projects {
+         padding-top: 15%;
+     }
+ }
